@@ -12,7 +12,7 @@ namespace exit
         {
             string exit = "exit";
             string enteredWord;
-            bool cycleIsOver = false;
+            bool cycleIsOver = true;
 
             Console.WriteLine("Данный цикл не закончится пока вы не введете 'exit'");
 
@@ -22,9 +22,8 @@ namespace exit
                 enteredWord = Console.ReadLine();
                 if (enteredWord == exit)
                 {
-                    cycleIsOver = true;
                     Console.WriteLine("Досвидание");
-                    break;
+                    cycleIsOver = false;
                 }
             }
             Console.ReadKey();
