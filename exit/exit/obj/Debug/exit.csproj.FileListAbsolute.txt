@@ -1,0 +1,8 @@
+D:\Visual Studio\Project\exit\exit\bin\Debug\exit.exe.config
+D:\Visual Studio\Project\exit\exit\bin\Debug\exit.exe
+D:\Visual Studio\Project\exit\exit\bin\Debug\exit.pdb
+D:\Visual Studio\Project\exit\exit\obj\Debug\exit.csproj.AssemblyReference.cache
+D:\Visual Studio\Project\exit\exit\obj\Debug\exit.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Project\exit\exit\obj\Debug\exit.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Project\exit\exit\obj\Debug\exit.exe
+D:\Visual Studio\Project\exit\exit\obj\Debug\exit.pdb
